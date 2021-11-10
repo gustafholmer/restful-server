@@ -1,5 +1,5 @@
 # restfulServer
-Final project in a web development course focusing on learning how to develop the backend of web apps. The project goal was to create a backend architecture for a university room information app.
+Final project in a web development course focusing on learning how to develop the backend of webapps. The project goal was to create a backend architecture for a university room information app.
 
 # Author: Gustaf Holmer
 
