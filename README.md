@@ -4,13 +4,13 @@ Final project in a web development course focusing on learning how to develop th
 # Author: Gustaf Holmer
 
 # How to run program:
-Depending on choosen file, there is different files to run.
+There are different types of files to run in a certain order:
 
-Create a json file consisting of different room data which originally are stored in a excel-file:
-- Run salar2json.bash
+1. Create a json file consisting of different room data which originally are stored in a excel-file:
+- type and run "bash salar2json.bash" (will use the existing excel-file "salar.xlsx" which are filled with room information)
 
-Run node.js server:
-- type and run "server/index.js --port <number>" in seperate terminal window.
+2. Run node.js server:
+- type and run "node server/index.js --port <number>" in a separate terminal window
   
-Run client (using node.js) to test the server
-- type and run "client/index.js --server <server> --port <number>" in seperate terminal window.
+3. Run client (using node.js) to test the server
+- type and run "node client/index.js --server <server> --port <number>" in a separate terminal window. Use the meny to receive information about different rooms
