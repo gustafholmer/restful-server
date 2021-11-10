@@ -1,9 +1,7 @@
 # restfulServer
 Final project in a web development course focusing on learning how to develop the backend of web apps. The project goal was to create a backend architecture for a university room information app.
 
-# Author: Gustaf Holmer
-
-# How to run program:
+# Usage
 There are different types of files to run in a certain order:
 
 1. Create a json file consisting of different room data which originally are stored in a excel-file:
